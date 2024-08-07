@@ -1,6 +1,14 @@
 ## Hi there 👋
 ![4 2  info_read](https://github.com/user-attachments/assets/72e3d681-e9b8-402a-9286-8d1431798512)
 
+## team 
+Project-manager : 조하정 <br>
+Designer : 김은비 <br>
+Frontend : [정선빈](https://github.com/jungsunbeen) <br>
+Frontend : [정은빈](https://github.com/eunkong0-0) <br>
+Backend : [박채린](https://github.com/cherrynniii) <br>
+Backend : [이강록](https://github.com/kangroklee) <br>
+
 
 <!--
 
