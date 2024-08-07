@@ -1,7 +1,8 @@
-## Hi there 👋
-![4 2  info_read](https://github.com/user-attachments/assets/72e3d681-e9b8-402a-9286-8d1431798512)
+휴학을 알차고 유익하게 📚
+## 휴알유
+![휴알유 intro](https://github.com/user-attachments/assets/72e3d681-e9b8-402a-9286-8d1431798512)
 
-## team 
+## team : 막내가좋아 👼
 Project-manager : 조하정 <br>
 Designer : 김은비 <br>
 Frontend : [정선빈](https://github.com/jungsunbeen) <br>
